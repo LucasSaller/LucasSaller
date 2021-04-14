@@ -32,9 +32,3 @@
 
 <br />
 <br />
-
----
-
-[twitter]: 
-[instagram]: 
-
