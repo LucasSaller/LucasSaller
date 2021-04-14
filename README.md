@@ -40,7 +40,7 @@
 [vcode]: https://code.visualstudio.com/
 [html]:https://www.w3schools.com/html/
 [sass]: https://sass-lang.com/
-[javascrip]: https://developer.mozilla.org/es/docs/Web/JavaScript
+[javascript]: https://developer.mozilla.org/es/docs/Web/JavaScript
 [react]: https://es.reactjs.org/
 [mongoDB]: https://www.mongodb.com/es
 [git]: https://git-scm.com/
