@@ -1,13 +1,9 @@
  - 👋 Hi, I’m @LucasSaller, a frontend developer from Argentina.
  - 👀 My goal is to acquire important work experience to develop what is needed simply and quickly, 
      working in a group and collaborating continuously for the common purpose.
- - 🌱 I’m currently learning: MERN / React / Redux 
+ - 🌱 I’m currently learning: Typescript 
  - 🎮 I love playing Video-Games
  - 📫 Email me at sallerlucas@gmail.com
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/lukisaller?si=5d7cf9ab6ef74752)
 
 ### Connect with me:
 
