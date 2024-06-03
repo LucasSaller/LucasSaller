@@ -4,6 +4,7 @@
  - 🌱 I’m currently learning: Typescript 
  - 🎮 I love playing Video-Games
  - 📫 Email me at sallerlucas@gmail.com
+ - web portfolio <a href='www.lucassaller.com.ar' target="_blank" >www.lucassaller.com.ar</a>
 
 ### Connect with me:
 
